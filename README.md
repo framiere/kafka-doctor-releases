@@ -4,7 +4,7 @@ Official native collector downloads for macOS, Linux and Windows. The product so
 
 **[Browse published releases](https://github.com/framiere/kafka-doctor-releases/releases)** · **[Latest stable release](https://github.com/framiere/kafka-doctor-releases/releases/latest)**
 
-There are no binaries until the first release is published. Pre-releases appear in the full release list and do not replace the latest stable version.
+The first public build, **[0.0.1](https://github.com/framiere/kafka-doctor-releases/releases/tag/0.0.1)**, is available without a GitHub account. Use a collector version matching your Doctor service. Pre-releases appear in the full release list and do not replace the latest stable version.
 
 | Computer | Release file |
 | --- | --- |
